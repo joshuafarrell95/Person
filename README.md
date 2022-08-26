@@ -1,5 +1,3 @@
 Joshua Farrell, M153428
 
-# Person
-
-main() is located in src/person/Person.java
+This project demonstrates the use of subclasses that inherit superclass attributes.
